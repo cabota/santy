@@ -120,7 +120,7 @@ static ArrayList<String[]>idpro;
                 .addGroup(pnlEleccionesBuscarLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(cmbEstacion, 0, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(txtDataFin))
-                .addGap(71, 71, 71)
+                .addGap(80, 80, 80)
                 .addComponent(btnBuscar, javax.swing.GroupLayout.PREFERRED_SIZE, 87, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(79, 79, 79))
         );
